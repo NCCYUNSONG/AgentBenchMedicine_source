@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "66e88728ba7d8bc0d5806f3a",
+    "answer": "C",
+    "correct_answer": "B"
+  },
+  {
+    "id": "66e8add1650a03361a14c6f8",
+    "answer": "True",
+    "correct_answer": "False"
+  },
+  {
+    "id": "66e8ccc4089d1e34c84c76c0",
+    "answer": "(1,5), (1,5)",
+    "correct_answer": "(1,4,5), (1,3,4,5,6)"
+  },
+  {
+    "id": "66e8db4fe1e483c59165a247",
+    "answer": "I",
+    "correct_answer": "C"
+  },
+  {
+    "id": "66e8f69b1440516dd6ab54da",
+    "answer": "48.00",
+    "correct_answer": "46.24"
+  },
+  {
+    "id": "66e991ec2dad0e536fb92ece",
+    "answer": "F",
+    "correct_answer": "C"
+  },
+  {
+    "id": "66ea1dd348eb93c2aef1c735",
+    "answer": "G",
+    "correct_answer": "E"
+  },
+  {
+    "id": "66ea29ab7131229007ccbd9d",
+    "answer": "E",
+    "correct_answer": "I"
+  },
+  {
+    "id": "66eb36fbb38dbcd7910ceafc",
+    "answer": "B-yellow",
+    "correct_answer": "B-green"
+  },
+  {
+    "id": "66ecfd03e7478ca5fcbb7495",
+    "answer": "32",
+    "correct_answer": "30"
+  },
+  {
+    "id": "66edc60801af2a724035ad4b",
+    "answer": "D",
+    "correct_answer": "E"
+  },
+  {
+    "id": "66edd3dc1ee489494038d9eb",
+    "answer": "B",
+    "correct_answer": "A"
+  },
+  {
+    "id": "66fc89ce455038a48ed359e4",
+    "answer": "D",
+    "correct_answer": "D"
+  },
+  {
+    "id": "670c83ba4aece479236947cb",
+    "answer": "A",
+    "correct_answer": "A"
+  },
+  {
+    "id": "670d5ce6d57c80b4d4090cb4",
+    "answer": "K",
+    "correct_answer": "D"
+  },
+  {
+    "id": "670d933ad54037c51abbe3ca",
+    "answer": "The definition of $\\kappa$ is $\\frac{\\phi^2 \\tau_u \\tau_w}{w \\rho \\tau_v}$.",
+    "correct_answer": "(-\\frac{\\rho}{\\phi}-\\mu)(\\tau_u+\\tau_v)"
+  },
+  {
+    "id": "670e5c2720bb63b6da63b879",
+    "answer": "C",
+    "correct_answer": "A"
+  },
+  {
+    "id": "670f00dc79750a6c73259f4d",
+    "answer": "E",
+    "correct_answer": "E"
+  },
+  {
+    "id": "670f289fb671096a201efee4",
+    "answer": "C",
+    "correct_answer": "D"
+  },
+  {
+    "id": "670f3cc6df04c6b73aa7b5df",
+    "answer": "0",
+    "correct_answer": "1"
+  },
+  {
+    "id": "670f4501dfe615f3d2f7436e",
+    "answer": "1, 3, 6",
+    "correct_answer": "2"
+  },
+  {
+    "id": "66ee0b4d95cd6c1ce2259e50",
+    "answer": "B",
+    "correct_answer": "D"
+  },
+  {
+    "id": "66ee158c5db68805b7d3d27b",
+    "answer": "B",
+    "correct_answer": "C"
+  },
+  {
+    "id": "66ee93ba02314f06feb186cf",
+    "answer": "E",
+    "correct_answer": "D"
+  },
+  {
+    "id": "66ef2a1b8829dedb61d5627a",
+    "answer": "Complement C3",
+    "correct_answer": "collagen"
+  },
+  {
+    "id": "66ef3de8b8a1ba6e0ba23498",
+    "answer": "E",
+    "correct_answer": "C"
+  },
+  {
+    "id": "66efa01e327e4a95dc760d01",
+    "answer": "C",
+    "correct_answer": "C"
+  },
+  {
+    "id": "66f052e814be84cc1edd3fbd",
+    "answer": "The slope will become less steep (flatter)",
+    "correct_answer": "no change"
+  },
+  {
+    "id": "66f0dab31f3d7fb98443ad69",
+    "answer": "3,5,8",
+    "correct_answer": "1, 4, 8"
+  },
+  {
+    "id": "66f0f4efd23ed0ac5f43b25f",
+    "answer": "A",
+    "correct_answer": "B"
+  },
+  {
+    "id": "66f1b5cec75c3ece07124859",
+    "answer": "5517",
+    "correct_answer": "12345"
+  },
+  {
+    "id": "670f511063b765ce8edde772",
+    "answer": "2",
+    "correct_answer": "7"
+  },
+  {
+    "id": "6710b2cbd1af6b4823c090d4",
+    "answer": "1.5",
+    "correct_answer": "231"
+  },
+  {
+    "id": "6711eb4e1c08a07a8d243847",
+    "answer": "25314",
+    "correct_answer": "13425"
+  },
+  {
+    "id": "6712787d0d05bc73fc008dfe",
+    "answer": "66.7%",
+    "correct_answer": "75.6%"
+  },
+  {
+    "id": "67155ca2675b57d8bbc9144d",
+    "answer": "F",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6715a9a5b3287d3dd4db03cd",
+    "answer": "The chemical concentration accumulated in the fish over 365 days is 1.8 ng/g for PFOS and 18.2 ng/g for PFOA.",
+    "correct_answer": "PFOS: 1185; PFOA: 6059636"
+  },
+  {
+    "id": "671689ae68b8747c96268936",
+    "answer": "Photorhabdus",
+    "correct_answer": "Arthrobacter"
+  },
+  {
+    "id": "6716e28929a01505aba1ddb5",
+    "answer": "D",
+    "correct_answer": "F"
+  },
+  {
+    "id": "6716e894e9b87625209506ca",
+    "answer": "F",
+    "correct_answer": "F"
+  },
+  {
+    "id": "66f31140cdc5dafd297e9b5a",
+    "answer": "C",
+    "correct_answer": "B"
+  },
+  {
+    "id": "66f3117acff7b10052fe1e3d",
+    "answer": "MG",
+    "correct_answer": "MAKEAIGREAT"
+  },
+  {
+    "id": "66f57a7e9f9308128679f668",
+    "answer": "C",
+    "correct_answer": "B"
+  },
+  {
+    "id": "66f6743f2db0dfd3e0b594e7",
+    "answer": "AIB interneurons",
+    "correct_answer": "PVQ"
+  },
+  {
+    "id": "66f77487fb10531253ee7842",
+    "answer": "G",
+    "correct_answer": "H"
+  },
+  {
+    "id": "66f83aed0d92e99048a4ae9d",
+    "answer": "H",
+    "correct_answer": "D"
+  },
+  {
+    "id": "66f986e852b9d5843203d342",
+    "answer": "Requires external taxonomic database lookup",
+    "correct_answer": "5,6,10,11,12,13,14,15,16,18,19,20,21"
+  },
+  {
+    "id": "66f9a8a4e613d5c62b6c0d22",
+    "answer": "K",
+    "correct_answer": "G"
+  },
+  {
+    "id": "66faccfb44cb2f3b0e1be0ff",
+    "answer": "G",
+    "correct_answer": "H"
+  },
+  {
+    "id": "66fc2b7dbdebe91c66389e50",
+    "answer": "66.67",
+    "correct_answer": "135 cc/hr"
+  },
+  {
+    "id": "66fc2df0b72463921f6c40f2",
+    "answer": "Neutral amino acids (e.g., Alanine or Glycine) to replace S47, E48, E49, D50",
+    "correct_answer": "Glycine-Serine-Glycine-Glycine-linker"
+  },
+  {
+    "id": "67180400ff1b830a3dd7e9bd",
+    "answer": "No, polynucleotides are not structurally polysaccharides. Polynucleotides are polymers of nucleotides, while polysaccharides are polymers of monosaccharides.",
+    "correct_answer": "Yes,they are"
+  },
+  {
+    "id": "6719e946a81614142be02bec",
+    "answer": "The highest concentration of an individual chemical reaching the spring is Atrazine at 40 μg/L. The effect of the mixture at this concentration is synergistic.",
+    "correct_answer": "210, Synergistic effect"
+  },
+  {
+    "id": "671a947c9deaf77048dcc8b7",
+    "answer": "D",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671aa91f6a8e7c23ccbf902b",
+    "answer": "Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) due to an idiosyncratic reaction to the third drug, likely an anticonvulsant, leading to a severe cutaneous adverse reaction.",
+    "correct_answer": "Inhibition of lamotrigine glucuronidation"
+  },
+  {
+    "id": "671ab94ffad7ae30b89eff8f",
+    "answer": "D",
+    "correct_answer": "B"
+  },
+  {
+    "id": "672562d698350d726c7c9463",
+    "answer": "Capgras delusion",
+    "correct_answer": "Brain tumor"
+  },
+  {
+    "id": "67256b14ac4f9591b137e180",
+    "answer": "A",
+    "correct_answer": "B"
+  },
+  {
+    "id": "67256db1afb4a043e613c929",
+    "answer": "B",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67256e36e5e6cc87293fc3f0",
+    "answer": "A",
+    "correct_answer": "F"
+  },
+  {
+    "id": "66fc5e611f5f3f3b48ae9566",
+    "answer": "C",
+    "correct_answer": "B"
+  },
+  {
+    "id": "66fc7efd5b5cf30b0e009669",
+    "answer": "Initial H3K4me3 percentage: 31.66%. Gene expression will decrease by 20 RPKM.",
+    "correct_answer": "30.0%, 133.33%"
+  },
+  {
+    "id": "66fc8b271d39fbf6d8bcdd0c",
+    "answer": "2.40",
+    "correct_answer": "0.3"
+  },
+  {
+    "id": "66fcde117e54294eb4a8fbba",
+    "answer": "C",
+    "correct_answer": "E"
+  },
+  {
+    "id": "66fce79d5dc8a9560304265b",
+    "answer": "The pharmacist should counsel Allison on the potential for drug interactions between Atorvastatin and Fluoxetine, as Fluoxetine can increase Atorvastatin levels, leading to increased risk of myopathy. Additionally, the pharmacist should advise Allison that her headache might be a side effect of the medications or a symptom of an underlying condition, and if it persists, she should consult her doctor. Finally, the pharmacist should confirm that Allison is aware of the proper administration and potential side effects of all her medications, including the oral contraceptive Junel Fe.",
+    "correct_answer": "Switch to progestin-only pill"
+  },
+  {
+    "id": "66fcf81e8a146dd80cfb2296",
+    "answer": "C",
+    "correct_answer": "D"
+  },
+  {
+    "id": "66fd60ea6be05c0b608861d5",
+    "answer": "To filter out contaminating cancer genes from CAR T samples not expressing IL15, a filtering strategy based on log fold base 2 change can be implemented using command-line tools within the bioinformatics analysis pipeline. Assuming you have a differential expression analysis output (e.g., from DESeq2 or edgeR) where log2FoldChange values are available, and you have a list of known cancer genes, you can filter as follows:\n\nFirst, identify the log2FoldChange threshold for what constitutes 'contamination' (e.g., highly expressed in contaminating cancer cells but low/zero in pure CAR T cells). Let's assume cancer genes show a significantly positive log2FoldChange in contaminated samples compared to a control or pure sample. You would also need a list of gene IDs for known cancer genes.\n\nHere's a conceptual command-line approach using `awk` and `grep` on a tab-separated differential expression file (e.g., `diff_exp_results.tsv`) where the first column is gene ID and a column (e.g., 3rd) is log2FoldChange:\n\n```bash\n# Assuming diff_exp_results.tsv has gene_id\tgene_name\tlog2FoldChange\t...\n# And cancer_genes.txt contains a list of cancer gene IDs, one per line.\n\n# Step 1: Filter for genes that are highly upregulated (e.g., log2FoldChange > 2) and are known cancer genes.\n# This example assumes the log2FoldChange is in the 3rd column and gene ID in the 1st.\nawk -F'\t' 'NR>1 && $3 > 2 {print $1}' diff_exp_results.tsv | grep -f cancer_genes.txt > potential_contaminant_genes.txt\n\n# Step 2: Now, you can use this list to remove these genes from your original expression matrix or further analysis.\n# For example, if you have an expression matrix (e.g., expression_matrix.tsv) with gene IDs in the first column:\n# grep -v -f potential_contaminant_genes.txt expression_matrix.tsv > filtered_expression_matrix.tsv\n\n# Explanation:\n# `awk -F'\t' 'NR>1 && $3 > 2 {print $1}' diff_exp_results.tsv`:\n#   - `-F'\t'` sets the field separator to tab.\n#   - `NR>1` skips the header row.\n#   - `$3 > 2` filters for rows where the log2FoldChange (3rd column) is greater than 2 (adjust threshold as needed).\n#   - `{print $1}` prints the gene ID (1st column) of the filtered rows.\n# `grep -f cancer_genes.txt`:\n#   - `-f cancer_genes.txt` reads patterns from `cancer_genes.txt` (your list of cancer gene IDs).\n#   - This filters the output of `awk` to only include gene IDs that are present in your `cancer_genes.txt` list.\n# `> potential_contaminant_genes.txt` redirects the output to a file.\n# `grep -v -f potential_contaminant_genes.txt expression_matrix.tsv`:\n#   - `-v` inverts the match, meaning it prints lines that *do not* match the patterns.\n#   - This effectively removes the identified contaminant genes from your expression matrix.\n\nThis strategy assumes you have a clear log2FoldChange threshold for contamination and a reliable list of cancer genes. You might need to adjust the log2FoldChange threshold based on your specific experimental data and the expected level of contamination.",
+    "correct_answer": "Cut off of LFC > 4 in contaminated samples"
+  },
+  {
+    "id": "66fda7a057cea4445778e88a",
+    "answer": "E",
+    "correct_answer": "A"
+  },
+  {
+    "id": "66fdaf20d1e0bb15b8fc1eb6",
+    "answer": "D",
+    "correct_answer": "E"
+  },
+  {
+    "id": "66fdecea0cc5d4963e81bb93",
+    "answer": "β0: -0.02, β1: -1.43, β2: 1.71",
+    "correct_answer": "β0 = 500, β1 = -5, and β2 = -1."
+  },
+  {
+    "id": "672572ba1b7caf96dfa80324",
+    "answer": "C",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67257fe9be53ed439b973ff9",
+    "answer": "A",
+    "correct_answer": "E"
+  },
+  {
+    "id": "67258c4124b290d28a9f8abe",
+    "answer": "B",
+    "correct_answer": "C"
+  },
+  {
+    "id": "6725b1b58255543498bdcbd1",
+    "answer": "F",
+    "correct_answer": "B"
+  },
+  {
+    "id": "6725c1e0eac3991069717fda",
+    "answer": "R0f = (b * Ng * pg) / (𝛾t + 𝜇t)",
+    "correct_answer": "b*Ng/Nt *pg * 1/(γt+µt) * τ/(τ+µg) * c* pt"
+  },
+  {
+    "id": "6725c3719aac82ce9cf99f23",
+    "answer": "D",
+    "correct_answer": "A"
+  },
+  {
+    "id": "67264a55cae736a4a682949a",
+    "answer": "A",
+    "correct_answer": "A"
+  },
+  {
+    "id": "672b2749f64de603265f9fc4",
+    "answer": "3",
+    "correct_answer": "E"
+  },
+  {
+    "id": "66fded1fbc6d46a25c41ee8d",
+    "answer": "B",
+    "correct_answer": "D"
+  },
+  {
+    "id": "66fe596c0eeb4521791d31ef",
+    "answer": "C",
+    "correct_answer": "D"
+  },
+  {
+    "id": "66fecc707183fdf40d11cb48",
+    "answer": "12",
+    "correct_answer": "5"
+  },
+  {
+    "id": "66fee6c39e4f456a6d2941b5",
+    "answer": "6 hours",
+    "correct_answer": "1 hour"
+  },
+  {
+    "id": "66fefa971ca108e6e888e9a1",
+    "answer": "Interleukin-15 would likely increase cytokine release in CAR T cells, as it enhances T cell proliferation, survival, and effector functions.",
+    "correct_answer": "Decreases cytokine release"
+  },
+  {
+    "id": "66ff063787bfb80443d02df6",
+    "answer": "A",
+    "correct_answer": "C"
+  },
+  {
+    "id": "66ff1bba3046dadaa8fd8a15",
+    "answer": "Increase",
+    "correct_answer": "Decrease by enhancing negative selection"
+  },
+  {
+    "id": "670010ff77983eff561814b2",
+    "answer": "B",
+    "correct_answer": "C"
+  },
+  {
+    "id": "670013827794cc36bc974f27",
+    "answer": "C",
+    "correct_answer": "B"
+  },
+  {
+    "id": "67008f17fc2c0a4040f1d352",
+    "answer": "H",
+    "correct_answer": "G"
+  },
+  {
+    "id": "670097e2d8f693f97c36c13f",
+    "answer": "4",
+    "correct_answer": "2, 4, 6, 8, 10"
+  },
+  {
+    "id": "671abddb40e08981d8fd796a",
+    "answer": "A. Duloxetine+Gabapentin",
+    "correct_answer": "B"
+  },
+  {
+    "id": "671ac641136758472327f851",
+    "answer": "B. It contributes to the defense against the broad spectrum of powdery mildew pathogens",
+    "correct_answer": "E"
+  },
+  {
+    "id": "671adbf8439b8a0eaec180d3",
+    "answer": "Asbestosis",
+    "correct_answer": "Felty's syndrome"
+  },
+  {
+    "id": "671ae258d2ea402783696a9f",
+    "answer": "Serum creatinine and urine protein-to-creatinine ratio",
+    "correct_answer": "Antistreptolysin-O titers"
+  },
+  {
+    "id": "671bea6afd01315eb4f1c376",
+    "answer": "D. Upon the host transfer, the CA biotypes showed decreased galactosidase activity, owing to higher glucose levels in cotton.",
+    "correct_answer": "B"
+  },
+  {
+    "id": "671bef23b55b44cbffbf0972",
+    "answer": "Interbeat interval (IBI)",
+    "correct_answer": "root mean square of successive differences"
+  },
+  {
+    "id": "671c6d6392388142386728ee",
+    "answer": "The laboratory made a mistake in believing that Batch 3 was safe to use because the ATCC cultures used for quality control were repassaged too many times (6 weeks), which can lead to phenotypic changes and unreliable results. Additionally, the PDA bottles were exposed to room air for several hours, potentially leading to contamination, and the use of Bacillus subtilis 6633 from Passage 5 ATCC stick on October 20th, without proper re-culturing from a fresh ATCC stock, further compromises the validity of the quality control check. The presence of bacterial colonies in Batch 3, despite autoclaving, suggests either post-autoclave contamination or issues with the sterility of the chloramphenicol addition, or that the quality control check itself was flawed due to the issues with the ATCC strain handling.",
+    "correct_answer": "Bacillus subtilis was non-viable"
+  },
+  {
+    "id": "671cbba2784e3ba406eefb34",
+    "answer": "C. Intravenous resuscitation of normal saline or Ringer's lactate",
+    "correct_answer": "D"
+  },
+  {
+    "id": "671d42b4a2d3581545c21fec",
+    "answer": "K. The composition of the newly synthesized DNA with radiolabeled nucleotides will be: 1A:3T:2C:3G",
+    "correct_answer": "B"
+  },
+  {
+    "id": "671dd6cd91a438f6811f5108",
+    "answer": "B. Chromosome 22",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671dea179a50e5f7394157de",
+    "answer": "D. Adenocarcinoma",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671f083dc8da11076ce9960e",
+    "answer": "A. Training an EfficientNet model with 5 insect species (estimated 36 hours to scrape data and train models, 13.8 hours to deploy)",
+    "correct_answer": "D"
+  },
+  {
+    "id": "671f09d6d0f22fd6e50482eb",
+    "answer": "D. 1.27m",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671f0c2578ab3005e439aeba",
+    "answer": "A. Its mother",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671f23ab12f081da543ed684",
+    "answer": "B. 6-5 >> 4-3",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671f2a3b6b0783bbe0457f38",
+    "answer": "1, 7",
+    "correct_answer": "2, 4, 5"
+  },
+  {
+    "id": "671f2b0ee38f776acdad8aa1",
+    "answer": "A. Nectar",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671f3210e38f776acdad8aab",
+    "answer": "1, 2, 3, 6, 7",
+    "correct_answer": "1, 3, 4,"
+  },
+  {
+    "id": "671f34ddd50b0306ddc17a41",
+    "answer": "C. Esophageal squamous cell carcinoma",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671f39dcd579cf064f22d3c1",
+    "answer": "F. No role.",
+    "correct_answer": "F"
+  },
+  {
+    "id": "671f40348b7ca154256661c6",
+    "answer": "B. Aedes aegypti",
+    "correct_answer": "A"
+  },
+  {
+    "id": "671ffad8e46fcc9dbd54ce6e",
+    "answer": "C. The brief incubation and staining conditions weren’t sufficient for stable antigen-specific interactions to form and persist between tumor cells and B cells—leading to few doublets and thus low efficiency in obtaining paired chains.",
+    "correct_answer": "E"
+  },
+  {
+    "id": "67202822dbc5086c0bdd4e1c",
+    "answer": "C. Enzymatic antioxidants",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6720fcd2198910fd26b01218",
+    "answer": "A. Fitting a birth-death model with 10 constant pieces",
+    "correct_answer": "F"
+  },
+  {
+    "id": "6721408e0d97cabdbfa0ace9",
+    "answer": "B. The second bacterial population acquired compensatory mutations that increased the fitness to a great extent and also led to cross-resistance following the rare resistance mutations.",
+    "correct_answer": "D"
+  },
+  {
+    "id": "67216d4134cd9a7f210d4100",
+    "answer": "The question asks for an Aortomesenteric diameter that is greater than 60% sensitive and greater than 80% specific for identifying EVP enhancement. This is a specific diagnostic threshold question that requires access to medical literature or diagnostic criteria related to Aortomesenteric diameter and EVP (Enhanced Vascular Prominence) enhancement, likely in the context of a specific medical condition (e.g., Superior Mesenteric Artery Syndrome or other vascular compressions). Without access to a specific medical database, research paper, or clinical guideline that provides these exact sensitivity and specificity values for different Aortomesenteric diameters, it is impossible to provide a precise numerical answer. The answer would be a specific diameter in millimeters (e.g., < 5 mm, < 10 mm, etc.) that meets both the sensitivity and specificity criteria. Therefore, I cannot provide a definitive numerical answer based on general knowledge.",
+    "correct_answer": "Maximum of 6.5mm"
+  },
+  {
+    "id": "672179e4c8cc0ac89395e8d0",
+    "answer": "E. Alcohol-preferring rats have increased tonic inhibition in the amygdala in comparison to the sucrose-preferring inhibition. The extracellular level of GABA is lower in alcohol-preferring rats.",
+    "correct_answer": "B"
+  },
+  {
+    "id": "67222f190f0526aefdf441fd",
+    "answer": "D. The effects of mutations in ber 1 and ber2 may be reversed by treatment with selective serotonin reuptake inhibitors (SSRI). Defects in ber2 do not always cause a decrease in cell proliferation.",
+    "correct_answer": "E"
+  },
+  {
+    "id": "67223ac0ca7acfa01f38c284",
+    "answer": "The single most appropriate next step in the management of this patient is to **initiate a comprehensive rehabilitation program focusing on physical and occupational therapy, alongside continued medical management of his comorbidities.**\n\nHere's a breakdown of the reasoning:\n\n**Current Status:**\n*   **Aspiration Pneumonia:** Improving, afebrile, on IV antibiotics. This is being managed.\n*   **Respiratory Status:** Mild cough, coarse rhonchi over right lower lobe. This suggests residual pulmonary issues, but not acute distress (oxygen saturation not provided, but no mention of dyspnea). His oxygen level was not mentioned, but he is afebrile and on IV antibiotics, suggesting the pneumonia is resolving.\n*   **Mobility:** Unable to ambulate despite physical therapy for two days. This is a significant decline from his pre-admission state (walking with a cane). The left-sided weakness (more prominent in the arm) and limited knee extension (165° due to resistance) are consistent with his prior stroke but suggest a need for more intensive rehabilitation.\n*   **Orthostatic Hypotension/Tachycardia:** His blood pressure and heart rate changes upon standing (BP 135/85 to 150/90, HR 76 to 118) indicate orthostatic intolerance, which can contribute to his inability to ambulate and risk of falls. This needs to be addressed, potentially by reviewing his medications (e.g., metoprolol, lisinopril) and ensuring adequate hydration.\n*   **Comorbidities:** Extensive history (CAD, CHF, HTN, T2DM, gout, stroke). His current lab values (HbA1c 5.9%, lipids within target) suggest good control of his diabetes and dyslipidemia. His creatinine is normal. His BMI is low (18.5 kg/m2), which is a concern for malnutrition and frailty, especially in the context of prolonged hospitalization.\n*   **Psychological:** He is alert and oriented, states he is doing fine, and wants to go home. This positive attitude is good, but his functional limitations are a barrier to discharge.\n\n**Why other options might be less appropriate as the *single most appropriate next step*:**\n*   **Adjusting medications for orthostatic changes:** While important, this is part of the overall medical management and might not be the *single most appropriate next step* to get him home. It's a concurrent action.\n*   **More aggressive pulmonary management:** His pneumonia seems to be resolving. While continued monitoring is needed, the primary barrier to discharge is mobility.\n*   **Addressing the knee contracture:** This is part of physical therapy and rehabilitation, not a separate primary step.\n*   **Discharge:** He cannot ambulate, making discharge unsafe without significant improvement in mobility and a robust home support plan.\n\n**Rationale for Comprehensive Rehabilitation:**\n1.  **Functional Recovery:** The most pressing issue preventing his discharge and return to daily routine is his inability to ambulate. Intensive physical and occupational therapy are essential to regain strength, balance, and mobility lost during hospitalization and exacerbated by his stroke. This includes addressing the left-sided weakness and the knee extension limitation.\n2.  **Preventing Deconditioning:** Prolonged bed rest and hospitalization lead to deconditioning, especially in elderly patients with multiple comorbidities. Early and aggressive rehabilitation can mitigate this and prevent further functional decline.\n3.  **Addressing Orthostatic Intolerance:** Rehabilitation, including progressive mobilization and exercises, can help improve his cardiovascular conditioning and reduce orthostatic symptoms, making it safer for him to stand and walk.\n4.  **Multidisciplinary Approach:** A comprehensive rehabilitation program involves physical therapists, occupational therapists, nurses, and potentially dietitians (given his low BMI) to address all aspects of his recovery and prepare him for safe discharge.\n5.  **Patient Goal Alignment:** His desire to go home and resume daily routines aligns perfectly with the goals of rehabilitation.\n\nTherefore, while his medical conditions require ongoing attention, the most impactful and immediate next step to facilitate his recovery and discharge is to intensify and broaden his rehabilitation efforts.",
+    "correct_answer": "Switch to High-dose Atorvastatin"
+  },
+  {
+    "id": "6722618ae686ef917a142d81",
+    "answer": "The new food (bean salad) is important because beans are rich in folate, which has been shown to help ease symptoms of schizophrenia. This suggests a dietary intervention to manage symptoms, especially after the withdrawal of a medication and the onset of new symptoms like fatigue, chills, and hair loss, which could be related to postpartum issues or medication side effects.",
+    "correct_answer": "contains red clover, increases prolactin"
+  },
+  {
+    "id": "6722b01f7f84054950978f69",
+    "answer": "Human alpha-enolase (ENO1)",
+    "correct_answer": "Glucose-6-phosphate 1-dehydrogenase"
+  },
+  {
+    "id": "6722b1f9f3a489ee08117730",
+    "answer": "B. phenoxyl radical",
+    "correct_answer": "C"
+  },
+  {
+    "id": "6722c0ddd60ad77b5374fdc9",
+    "answer": "Ocean acidification can disrupt the sensory abilities that fish larvae use for settlement. The researchers decided to test whether elevated CO₂ levels influence the sound sensory abilities of fish larvae.",
+    "correct_answer": "D"
+  },
+  {
+    "id": "672378554b5264ad52901028",
+    "answer": "I. Fungus A and B are pathogens. Fungus C is a commensal.",
+    "correct_answer": "E"
+  },
+  {
+    "id": "6723a1419293b01661360a94",
+    "answer": "The specific procedures for managing the patient's condition, considering her medical history and the accident, would involve a multidisciplinary approach. Given her diabetes mellitus and high glycated hemoglobin (HbA1c 7.5%), her glycemic control needs to be optimized immediately to prevent complications and promote healing. This would involve initiating appropriate antidiabetic medication (e.g., metformin, insulin, or other suitable agents) and dietary counseling. Her SNB angle of 88° suggests a Class I skeletal relationship, which is within normal limits and may not require immediate orthodontic intervention unless there are other occlusal issues. However, the loss of teeth due to trauma requires immediate attention.\n\n**Emergency Management (28 hours post-accident):**\n1.  **Systemic Stabilization:** Assess and stabilize her overall medical condition, especially her blood glucose levels. Intravenous fluids and insulin may be necessary if she is hyperglycemic or dehydrated.\n2.  **Oral Examination and Imaging:** A thorough intraoral and extraoral examination is crucial. Radiographs (periapical, occlusal, panoramic) are essential to assess the extent of alveolar bone fracture, root fractures of adjacent teeth, and presence of any foreign bodies. A CBCT (Cone Beam Computed Tomography) scan might be beneficial for a detailed 3D assessment of the bone and surrounding structures.\n3.  **Wound Management:** Cleanse the oral wounds thoroughly with saline and antiseptic solutions (e.g., chlorhexidine). Assess for soft tissue lacerations and manage them appropriately (suturing if needed).\n4.  **Tooth Management:** The lost teeth (left lateral incisor, canine, and first premolar) need to be accounted for. If found, they should be stored in an appropriate medium (e.g., Hank's Balanced Salt Solution, milk, saline) and brought to the hospital. However, after 28 hours, the prognosis for replantation is extremely poor due to prolonged extra-oral dry time and likely irreversible damage to the periodontal ligament cells. Therefore, replantation is generally not recommended.\n5.  **Antibiotics and Tetanus Prophylaxis:** Prescribe broad-spectrum antibiotics to prevent infection, especially given the delay in presentation and her diabetic status. Tetanus prophylaxis should be updated if necessary.\n6.  **Pain Management:** Administer appropriate analgesics.\n\n**Cells of Interest:**\n*   **Periodontal Ligament (PDL) Cells:** These are crucial for successful tooth replantation. Their viability is severely compromised after 28 hours of extra-oral time, leading to ankylosis or root resorption if replanted.\n*   **Osteoblasts and Osteoclasts:** These cells are involved in bone remodeling and healing after trauma and in response to prosthetic interventions.\n*   **Fibroblasts:** Involved in soft tissue healing.\n*   **Epithelial Cells:** Involved in wound healing and gingival health.\n*   **Immune Cells (Neutrophils, Macrophages, Lymphocytes):** Important for infection control, especially in a diabetic patient.\n\n**Denture Replacement:**\nGiven the loss of multiple adjacent teeth, a removable partial denture (RPD) or a fixed partial denture (bridge) or dental implants are options. Considering her diabetic status and the need for good oral hygiene, a well-designed RPD or implants would be preferred. If a denture replacement is decided upon, a **removable partial denture (RPD)** is a viable option.\n\n**Kind of Denture and Material:**\n*   **Kind of Denture:** A **cast metal framework removable partial denture (RPD)** is generally preferred over an acrylic RPD due to its superior strength, rigidity, retention, and tissue compatibility. It allows for a thinner and less bulky prosthesis, improving patient comfort and phonetics.\n*   **Material:**\n    *   **Framework:** **Cobalt-chromium alloy** is the material of choice for the cast metal framework due to its excellent mechanical properties (high strength, stiffness, fatigue resistance), corrosion resistance, biocompatibility, and relatively low cost. Titanium alloys are also an option, offering superior biocompatibility and lighter weight, but at a higher cost.\n    *   **Denture Base:** **Heat-cured acrylic resin (polymethyl methacrylate - PMMA)** is the standard material for the denture base, providing good esthetics, tissue compatibility, and ease of fabrication and repair.\n    *   **Artificial Teeth:** **Acrylic resin teeth** are commonly used due to their good esthetics, chemical bond to the denture base, and ease of adjustment. Porcelain teeth are more wear-resistant but can be brittle and may cause excessive wear on opposing natural teeth.\n\n**Abutment Teeth and Reasons:**\nFor a removable partial denture replacing the left lateral incisor, canine, and first premolar, the most suitable abutment teeth would be the adjacent natural teeth that can provide adequate support, retention, and stability. These would typically be:\n\n1.  **Left Central Incisor (Tooth #9):**\n    *   **Reason:** It is the tooth immediately mesial to the missing lateral incisor. It can serve as an anterior abutment, providing support and retention for the anterior part of the denture. A well-designed rest seat and clasp (e.g., an I-bar or Akers clasp) can be placed on its lingual or palatal surface.\n\n2.  **Left Second Premolar (Tooth #13):**\n    *   **Reason:** It is the tooth immediately distal to the missing first premolar. It can serve as a posterior abutment, providing support and retention for the posterior part of the denture. A rest seat on its occlusal surface and a clasp (e.g., Akers clasp, RPI system) would be used.\n\n**Reasons for choosing these abutment teeth:**\n*   **Proximity to Edentulous Space:** They are directly adjacent to the missing teeth, allowing for efficient distribution of occlusal forces and optimal retention.\n*   **Support:** They provide vertical support to the denture, preventing it from sinking into the soft tissues and preserving the underlying alveolar ridge.\n*   **Retention:** Clasps placed on these teeth engage undercuts, providing resistance to dislodgement of the denture during function.\n*   **Stability:** They help stabilize the denture against horizontal and rotational movements.\n*   **Load Distribution:** Using multiple abutments helps distribute the masticatory forces over a larger area, reducing stress on individual teeth and the alveolar ridge.\n*   **Periodontal Health:** Before selecting abutment teeth, their periodontal health, caries status, and restorative needs must be thoroughly assessed. Teeth with good periodontal support and minimal mobility are ideal candidates. In a diabetic patient, meticulous periodontal care is even more critical.\n\n**Considerations for a Diabetic Patient:**\n*   **Infection Control:** Higher risk of infection; strict aseptic techniques during all procedures.\n*   **Healing:** Delayed wound healing; careful monitoring of oral tissues.\n*   **Periodontal Disease:** Increased susceptibility to periodontal disease; emphasize excellent oral hygiene and regular professional cleanings.\n*   **Prosthetic Fit:** Ensure precise fit of the denture to prevent pressure sores, which can be slow to heal in diabetic patients.\n*   **Follow-up:** More frequent follow-up appointments to monitor oral health and denture adaptation.",
+    "correct_answer": "Orthodontic and Prosthodontic management."
+  },
+  {
+    "id": "6723ba00339572beba8f91b2",
+    "answer": "D. Nephroblastoma",
+    "correct_answer": "C"
+  },
+  {
+    "id": "6723f54dcd09615a3afc3d10",
+    "answer": "1) The exact residues from the beta-1 subunit that are hotspots for interaction with the alpha-1 subunit are primarily located in the **guanylate kinase (GK) domain** and the **SH3 domain** of the beta subunit. Specific residues involved in this interaction include: \n\n*   **GK domain:** Residues within the **GK-alpha interaction motif (GAIM)**, which is a conserved sequence in the GK domain. While the exact residues can vary slightly depending on the specific channel and species, key residues often include hydrophobic and charged amino acids that form a binding interface with a complementary region on the alpha-1 subunit (often within its I-II linker or C-terminus). For example, in some studies, residues like **Trp-391, Tyr-392, and Phe-393** (numbering may vary) within the GAIM have been implicated. \n*   **SH3 domain:** Residues within the **SH3-alpha interaction motif (SAIM)**, which is a proline-rich sequence in the alpha-1 subunit that binds to the SH3 domain of the beta subunit. Key residues in the beta-1 SH3 domain that form the binding pocket for this motif include conserved aromatic and hydrophobic residues. For example, residues like **Trp-280 and Tyr-282** (numbering may vary) have been identified as critical for this interaction. \n\nIt's important to note that the precise numbering can vary based on the specific isoform and species (human, rat, etc.) and the reference sequence used. Therefore, it's crucial to refer to the specific human voltage-gated calcium channel 2.3 (CaV2.3) and beta-1 subunit (CaVβ1) sequences for exact residue positions.\n\n2) The exact residues from the beta-1 subunit that are hotspots for fine-tuning gating properties (gating modulation) of the alpha-1 subunit are also distributed across different domains, reflecting the multifaceted role of the beta subunit in channel function. These include: \n\n*   **Alpha-Interaction Domain (AID) binding site:** The primary interaction between the beta subunit and the alpha-1 subunit occurs at the AID of the alpha-1 subunit (located in the I-II linker). Residues in the beta subunit that directly interact with the AID are critical for modulating channel gating. These include residues in the **alpha-interaction motif (AIM)** of the beta subunit, which is a conserved sequence that binds to the AID. Specific residues, often hydrophobic, within the AIM are crucial for this interaction. For example, residues like **Ile-200, Val-201, and Leu-202** (numbering may vary) in the beta-1 subunit have been shown to be important for AID binding and subsequent gating modulation. \n*   **GK domain:** Beyond its direct interaction with the alpha-1 subunit, the GK domain itself can influence gating. Residues involved in the **conformational changes** of the GK domain upon binding to the alpha-1 subunit or other regulatory proteins can impact gating. \n*   **SH3 domain:** The SH3 domain, through its interaction with the SAIM of the alpha-1 subunit, can also modulate gating. Residues within the SH3 domain that are involved in **protein-protein interactions** with other regulatory proteins or with the alpha-1 subunit itself can influence channel kinetics. \n*   **N-terminus and C-terminus:** While less characterized than the core domains, some studies suggest that residues in the N- and C-termini of the beta subunit can also contribute to gating modulation, possibly through interactions with other cellular components or by influencing the overall conformation of the beta subunit. \n\nAgain, the exact residue numbering is highly dependent on the specific human CaV2.3 and CaVβ1 sequences. Functional studies, such as site-directed mutagenesis and electrophysiological recordings, are typically used to pinpoint these critical residues and their roles in gating modulation.",
+    "correct_answer": "1) Met 248; 2) Glu 395, Asp 396, Glu 399"
+  },
+  {
+    "id": "6723fc382a5a297be25c2d79",
+    "answer": "H. T10",
+    "correct_answer": "F"
+  },
+  {
+    "id": "672403a54850f72c4c930d47",
+    "answer": "C. Insertions at k and l lead to loss of RA binding and DNA binding, thus affecting transcriptional activation.",
+    "correct_answer": "D"
+  },
+  {
+    "id": "672403fa5461772b24b2e651",
+    "answer": "A. Natural selection for fitness optimality",
+    "correct_answer": "B"
+  },
+  {
+    "id": "672407521f51862e37d75208",
+    "answer": "J. Prescribe anticoagulase medication to prevent thrombotic events",
+    "correct_answer": "I"
+  },
+  {
+    "id": "67240e5586f4c71a70e0b498",
+    "answer": "D. Sepsis",
+    "correct_answer": "E"
+  },
+  {
+    "id": "67240e5786f4c71a70e0b499",
+    "answer": "E. They act as sequence-specific DNA-binding proteins that block heterochromatin spread through steric hindrance.",
+    "correct_answer": "B"
+  },
+  {
+    "id": "6724102248afc025aa35bce8",
+    "answer": "E. 1/16 wild-type: 15/16 vermilion",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6724109dab2b4ea54da1ad90",
+    "answer": "A. Three SNPs tightly linked within a single LD block on one chromosome.",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6724134c03192a89cb2296c0",
+    "answer": "D. The non-linear relationship between intron lengths and effector gene density in the context of purifying selection.",
+    "correct_answer": "A"
+  },
+  {
+    "id": "672416e85247738dfbb432fa",
+    "answer": "D. Uniparental disomy",
+    "correct_answer": "A"
+  },
+  {
+    "id": "67241711454d2eee0ceef767",
+    "answer": "A. Sequence: 5'-GAUACGUACGAU-3'; Condition: third position wobble effect.",
+    "correct_answer": "D"
+  },
+  {
+    "id": "67241750cf2f76f66b81fe10",
+    "answer": "D. Subfunctionalization",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67241990a1bd6b06dafb7052",
+    "answer": "A. 140 tall, round, yellow; 10 tall, round, green; 10 tall, wrinkled, yellow; 10 tall, wrinkled, green; 10 dwarf, round, yellow; 10 dwarf, round, green; 10 dwarf, wrinkled, yellow; 100 dwarf, wrinkled, green.",
+    "correct_answer": "B"
+  },
+  {
+    "id": "67241cbe9909a95d1bf7aa00",
+    "answer": "L. I, III, IV",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6724217c9909a95d1bf7aa1c",
+    "answer": "J. II, III",
+    "correct_answer": "L"
+  },
+  {
+    "id": "672424af1bf467697c4c699f",
+    "answer": "G. IV, V",
+    "correct_answer": "M"
+  },
+  {
+    "id": "67242f1f911674ab1b5d904b",
+    "answer": "Q. II, III, V",
+    "correct_answer": "R"
+  },
+  {
+    "id": "672455ce7a14971607e3d9f0",
+    "answer": "F. The mice treated with anti-TNF are at risk of osteoporosis. The side effects of the tested ADC are lower than those of the anti-TFN. GRM will induce fewer side effects than the tested ADC even when the dosage of the two drugs will be the same.",
+    "correct_answer": "E"
+  },
+  {
+    "id": "67249fe6d917564737255342",
+    "answer": "Charles needs to adjust his diet first. While a whole foods diet that limits animal protein, fat, and carbohydrates is generally healthy, the initial struggle he is experiencing suggests that the sudden and drastic change might be too restrictive for him, especially given his traveling lifestyle and the need for sustained energy. \n\nHere's why and what adjustments might be considered:\n\n**1. Diet Adjustment (Prioritized):**\n*   **Sustainability:** A diet, no matter how healthy, is ineffective if it cannot be sustained long-term. His current struggle indicates it's not sustainable for him right now.\n*   **Energy Levels:** Limiting all three macronutrients (protein, fat, carbohydrates) simultaneously can lead to significant energy dips, making it hard to maintain daily activities and potentially impacting his ability to exercise. His body is likely in a state of shock from the drastic change.\n*   **Nutrient Adequacy:** While the intent is good, overly restrictive diets can lead to nutrient deficiencies and rebound eating. He needs to ensure he's getting enough calories and macronutrients to support his body, especially if he plans to increase exercise.\n*   **Psychological Impact:** Feeling deprived or constantly struggling can lead to frustration, demotivation, and eventually, abandonment of the diet. The behavioral psychotherapy helped him with self-control, but the diet itself might be setting him up for failure.\n*   **Seizure History:** While his anti-seizure medication doesn't have many drug interactions, drastic dietary changes, especially those affecting blood sugar levels, can potentially impact seizure control or overall well-being. A more gradual approach is safer.\n\n**Proposed Adjustments to Diet:**\n*   **Gradual Reduction:** Instead of an immediate drastic cut, he should gradually reduce these components. For example, start by reducing processed foods, then slowly decrease animal protein, unhealthy fats, and refined carbohydrates over several weeks or months.\n*   **Focus on Quality, Not Just Restriction:** Emphasize nutrient-dense whole foods. Instead of just limiting, focus on substituting. For example, replace red meat with lean poultry or fish, refined carbs with whole grains, and unhealthy fats with healthy fats (avocado, nuts, olive oil).\n*   **Adequate Protein Intake:** Ensure sufficient protein intake, especially plant-based proteins (legumes, tofu, quinoa), to maintain muscle mass and satiety, which is crucial for weight loss and energy levels.\n*   **Healthy Fats:** Include healthy fats in moderation. They are essential for hormone production, nutrient absorption, and satiety.\n*   **Complex Carbohydrates:** Instead of eliminating carbohydrates, focus on complex carbohydrates (whole grains, vegetables, fruits) that provide sustained energy and fiber.\n*   **Portion Control:** Focus on appropriate portion sizes rather than extreme restriction.\n*   **Flexibility for Travel:** Develop strategies for healthy eating while traveling. This might involve packing healthy snacks, researching healthy restaurant options in advance, or choosing hotels with kitchenettes.\n\n**Why other areas are less of a first adjustment:**\n*   **Exercise:** While exercise is crucial, introducing it simultaneously with a drastic diet change can be overwhelming and lead to burnout. It's better to stabilize the diet first, build some energy, and then gradually incorporate exercise.\n*   **Anti-seizure medication:** The question states it doesn't have many drug interactions, so it's unlikely to be the primary issue for his current struggle.\n*   **Behavioral psychotherapy:** This has already helped him, indicating he has the mental tools. The problem lies more with the physical demands of the diet itself.\n*   **Traveling connoisseur hobby:** This is a long-term challenge that needs strategies, but the immediate struggle is with the diet's restrictiveness, not just the environment.\n\nBy adjusting his diet to be more sustainable and less immediately restrictive, Charles is more likely to adhere to his long-term goals, maintain energy levels, and avoid potential health complications related to nutrient deficiencies or blood sugar fluctuations, especially given his seizure history.",
+    "correct_answer": "Change anti-seizure medication"
+  },
+  {
+    "id": "6724a088d917564737255346",
+    "answer": "D. Incubated the sample for longer",
+    "correct_answer": "E"
+  },
+  {
+    "id": "6724db7012a8d5ea6a619372",
+    "answer": "E. 2 and 3",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6724ff2892419e4380b56880",
+    "answer": "A. Conduct a thorough library preparation and increase the sequencing depth from 40X to 80X and then compare these reads to the alleles of interest.",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6724ffb21d07f0962c8993cf",
+    "answer": "C.  increase, less, Keap1",
+    "correct_answer": "C"
+  },
+  {
+    "id": "672500151d07f0962c8993d7",
+    "answer": "B. It causes a conservative missense mutation due to wobble pairing.",
+    "correct_answer": "B"
+  },
+  {
+    "id": "672507e82cc2a1349f1ffaf1",
+    "answer": "A. Clockwise direction, origin near ton",
+    "correct_answer": "A"
+  },
+  {
+    "id": "67253c33ad98e94b47ea3477",
+    "answer": "D. Chemotherapy to kill the malignant cells",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67254a56046774791d0f1a41",
+    "answer": "D. Atrial septal defect",
+    "correct_answer": "H"
+  },
+  {
+    "id": "672555acc27a6276611a3005",
+    "answer": "F. Femoral artery pseudoaneurysm",
+    "correct_answer": "G"
+  },
+  {
+    "id": "67255df04c0e045943574e41",
+    "answer": "B. Chromosomal inversions",
+    "correct_answer": "C"
+  },
+  {
+    "id": "672bb2605a3e88050ba2cef8",
+    "answer": "B. Pleuroperitoneal membrane defect",
+    "correct_answer": "C"
+  },
+  {
+    "id": "672bca9fab085c84b90e223d",
+    "answer": "F. 2,3,4,5,7.",
+    "correct_answer": "B"
+  },
+  {
+    "id": "672ec55453f431bf8d3dc928",
+    "answer": "The palliovisceral lobe in the dwarf cuttlefish (Sepia bandensis or similar species) is a part of the brain that integrates sensory information from the mantle and visceral organs. Posteriorly adjacent to the palliovisceral lobe, one would typically find structures related to the posterior brain and nerve cords. \n\nBased on general cephalopod neuroanatomy, the brain regions that lie adjacent posteriorly to the palliovisceral lobe would include: \n\n1.  **Posterior Pedal Lobe:** This lobe is typically located posterior to the palliovisceral lobe and is involved in controlling the movements of the arms and tentacles. \n2.  **Visceral Lobe (or parts of it):** While the palliovisceral lobe itself integrates visceral information, more posterior parts of the visceral lobe or its connections might be found adjacent. \n3.  **Optic Lobe (or its posterior connections):** Although the optic lobes are large and prominent, their posterior connections and tracts extend towards the more central and posterior brain regions. \n4.  **Cerebellar-like structures:** Cephalopods have complex motor control, and structures analogous to a cerebellum, involved in coordination, would be found in the posterior brain. \n5.  **Giant Nerve Fibers/Axons:** The large axons that control rapid escape responses (e.g., mantle contractions) originate from giant neurons in the posterior brain and extend posteriorly. \n\nWithout a specific neuroanatomical atlas for the dwarf cuttlefish, it is difficult to pinpoint the exact, most precise adjacent posterior region. However, the **posterior pedal lobe** is a very strong candidate, given its typical anatomical relationship with the palliovisceral lobe in cephalopods.",
+    "correct_answer": "Dorsal and ventral vasomotor lobe"
+  },
+  {
+    "id": "672eff1c72cfb81d78f82cdb",
+    "answer": "C. Eyelids",
+    "correct_answer": "E"
+  },
+  {
+    "id": "672f0ac02ccf8890167533ec",
+    "answer": "A. Tensor tympani",
+    "correct_answer": "B"
+  },
+  {
+    "id": "672ff71e724ca22f42c0ff85",
+    "answer": "F. None of the above is correct.",
+    "correct_answer": "C"
+  },
+  {
+    "id": "6730d8d2f51df13db2f61050",
+    "answer": "E. Rickettsia rickettsii",
+    "correct_answer": "A"
+  },
+  {
+    "id": "67315c7e7fcf9ea998467bd6",
+    "answer": "E. 10mg IM olanzapine + 2mg IM lorazepam",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6731fa3bb08cf72258a21348",
+    "answer": "C. pCDFDuet-1 with spectinomycin resistance and pET-28a(+) with kanamycin resistance",
+    "correct_answer": "H"
+  },
+  {
+    "id": "67335820c7d8c66591e6dfc7",
+    "answer": "H. None of the above is correct.",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67352c39a52dd47230de9a2b",
+    "answer": "D. 154",
+    "correct_answer": "H"
+  },
+  {
+    "id": "67a47bc3957a497a8448ac2f",
+    "answer": "Yes",
+    "correct_answer": "No"
+  },
+  {
+    "id": "67366bc5b5eda7e01fa935c6",
+    "answer": "Recurrent invasive ductal breast cancer",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6736a9b0b949d548db8da965",
+    "answer": "A. Short-term memory",
+    "correct_answer": "E"
+  },
+  {
+    "id": "6736bf617cb0499c96e427da",
+    "answer": "C. Splenic laceration",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6736c2e82db9d8cc7cd8e607",
+    "answer": "D. Patch test",
+    "correct_answer": "B"
+  },
+  {
+    "id": "6737006d3f0517b6e8a60733",
+    "answer": "C. Surgical debridement of necrotic sites",
+    "correct_answer": "H"
+  },
+  {
+    "id": "6737022fa283793ef57494a3",
+    "answer": "Entoloma",
+    "correct_answer": "Heinemannomyces"
+  },
+  {
+    "id": "673710799f4e09ce7f83d562",
+    "answer": "360,1100,1200",
+    "correct_answer": "360,860,1200"
+  },
+  {
+    "id": "67371fc1d4a812e865edf21c",
+    "answer": "12",
+    "correct_answer": "15"
+  },
+  {
+    "id": "67372744600c9c0daa5d8f3f",
+    "answer": "A. Peaks 1 and 3 are present, and peak 5 is absent in rarefaction and condensation up to 95 dBnHL.",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67372d4af4721666334a8535",
+    "answer": "C16-dihydroceramide will have a lower surface area when compressed in a monolayer in air-water interface. This is because C16-dihydroceramide forms highly ordered domains due to its saturated hydrocarbon chains, allowing for tighter packing and less surface area per molecule compared to C16-ceramide, which has a double bond in its sphingoid base, leading to less ordered domains and thus a larger surface area.",
+    "correct_answer": "C16-ceramide"
+  },
+  {
+    "id": "67372e09a90747ed09962582",
+    "answer": "The child's total maintenance fluid per day is calculated using the Holliday Segar method:",
+    "correct_answer": "49"
+  },
+  {
+    "id": "67375e6f8b1cc52c211f95ce",
+    "answer": "The nucleotide sequence is: ggacattgttgttagcgaagacttgaatggaacggtgaagttttcaagctctttaccctaccccaataatcttaacagtgtcctggctgagcgactggagaagtggc",
+    "correct_answer": "DIVVSEDLNGTVKFSSSLPYPNNLNSVLAERLEKW"
+  },
+  {
+    "id": "6737697dedff89681fe75582",
+    "answer": "To prevent the degradation of p-coumaric acid in Corynebacterium glutamicum, you should knock out genes involved in its degradation pathway. Based on the search results, the `phd` gene cluster (specifically `phdA`, `phdB`, `phdC`, or `phdE`) is responsible for the β-oxidation of phenylpropanoids, including p-coumaric acid. Therefore, knocking out any of these genes would prevent the degradation of p-coumaric acid.",
+    "correct_answer": "phdA"
+  },
+  {
+    "id": "673784c950c4b58b2154e4ef",
+    "answer": "B. Low intraocular pressure. Acetazolamide is a carbonic anhydrase inhibitor that reduces both intracranial pressure and intraocular pressure. If idiopathic intracranial hypertension suddenly remits, and the patient continues to take acetazolamide, the drug's effect on lowering intraocular pressure would become more prominent, leading to low intraocular pressure.",
+    "correct_answer": "D"
+  },
+  {
+    "id": "673799cf4d349e2ed66792d2",
+    "answer": "The volume of Indium 111 chloride that must be drawn into the syringe at 4:04 am CST December 23 when the kit is compounded is 3.51 mL.",
+    "correct_answer": "3.66 mL"
+  },
+  {
+    "id": "67379dd995d9299b8ac8439c",
+    "answer": "A. Group1: miR-139-3p, miR-186, miR-339-3p, miR-486, miR-511, miR-672, mR-708",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6737c784312c74381365c1c7",
+    "answer": "The firing rate of a typical neuron is 63 Hz.",
+    "correct_answer": "70"
+  },
+  {
+    "id": "67383288f2df805520bc86b5",
+    "answer": "B. XY vs ZW sex determining systems. Sex-linked markers (on X, Y, Z, or W chromosomes) can show different patterns of inheritance and thus different levels of genetic differentiation (Fst) between sexes, especially if there are differences in gene flow or selection pressures acting on these sex chromosomes. For example, in XY systems, males are hemizygous for X-linked genes, and in ZW systems, females are hemizygous for Z-linked genes, which can lead to pronounced differentiation if selection or drift acts differently on these chromosomes in males versus females.",
+    "correct_answer": "E"
+  },
+  {
+    "id": "6738373cf2df805520bc86ce",
+    "answer": "C. High Fis within a population. Fis measures the inbreeding coefficient within a subpopulation. Gene flow, by introducing new alleles and increasing genetic diversity, generally reduces inbreeding and thus Fis. Therefore, high Fis within a population is unlikely to occur when there is significant gene flow across a hybrid zone.",
+    "correct_answer": "B"
+  },
+  {
+    "id": "6738df8c201a2bd66499797a",
+    "answer": "C. Dermatomyositis. The symptoms described (hypertrophic scarring, erythema, spasticity) in a 1-year-old patient, especially with negative anti-Mi-2 labs (which are often positive in adult dermatomyositis but can be negative in juvenile dermatomyositis), are highly suggestive of juvenile dermatomyositis. This condition is a rare autoimmune disease that affects muscles and skin, often presenting with skin rashes (erythema), muscle weakness (leading to spasticity due to contractures), and sometimes calcinosis (which can lead to scarring).",
+    "correct_answer": "A"
+  },
+  {
+    "id": "67393de74954110962f03245",
+    "answer": "D. 3. The Simpson's Diversity Index value of 0 is mathematically valid, as it indicates the presence of only one species in the sampled data. However, it is not ecologically valid because the field trip organizer, who grew up on the island, witnessed several bat species. This discrepancy suggests that the student's sampling, despite being methodologically valid, did not capture the true diversity of bats on the island, making the ecological interpretation of the index invalid.",
+    "correct_answer": "A"
+  },
+  {
+    "id": "67396490173834c134fbaceb",
+    "answer": "C. Both intention-to-treat population and PD-L1-positive population. Based on the search results, PD-1 inhibitors have shown to prolong overall survival in both the intention-to-treat population and, more significantly, in the PD-L1-positive population in Triple Negative Breast Cancer (TNBC).",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67396c5bbb01e9373d18968e",
+    "answer": "To distinguish these five isoforms (DNMT3A1, DNMT3A2, DNMT3B1, DNMT3B3, and DNMT3L) using Western Blot, a minimum of 3 antibodies would be required. This assumes that the isoforms within DNMT3A (DNMT3A1 and DNMT3A2) have sufficiently different molecular weights, and similarly for DNMT3B (DNMT3B1 and DNMT3B3), allowing them to be resolved as distinct bands on a Western Blot using a pan-antibody for each protein family. Therefore, one antibody for DNMT3L, one pan-antibody for DNMT3A, and one pan-antibody for DNMT3B would be sufficient.",
+    "correct_answer": "2"
+  },
+  {
+    "id": "6739f5ede8b91dc9dac17cd9",
+    "answer": "For a flow cytometry sorting experiment using Streptavidin beads with five detection channels (AF350, GFP, PE, AF647, AF750), the essential controls are:",
+    "correct_answer": "11"
+  },
+  {
+    "id": "673a5f9b329d98c7d4b69d5f",
+    "answer": "The translated protein sequence is: MAALEFPAGFLFGTATSAYQIEGAWKEDGKGESMWDRLTHDHPEIIKDKSTGDVACNSYHLYKEDVRMLKELGVNFYRFSVSWSRILPTGHDNVVNQAGIAYYNNLINELIANGIQPMVIMYHFDLPQPLQDLGGWTNPVLANYFEDYARVLYANFGDRVKWWNTINEPQIHAMGYSEPFGLAPNILTPGHGQYLAVHTFLLSHARAYRLYEREFKAKQGGKVSIVPGGFWMQPTSDSKDEEEAAARAQEMQLGWVLHPIYSATGDYPPVMKEWMAKKSKEEGYSRSRLPSFTKEEIEMVKGTWDYLGLNHYTTFFTLQSKEESMFLKDTGVANIQDDKYPSAASEWLQVVPWGFRKLLNWIAKKYNNPPIVITENGFSDHGELNDRDRVNYLTKYLCELLKAVKDDGCNVIGYTVWSLMDNFEWPSGYTEK.",
+    "correct_answer": "C"
+  },
+  {
+    "id": "673a6a6c4c465c371379b670",
+    "answer": "F. Only CaPK3 and CaPK2 can phosphorylate GIKS3 on serine 25. CaPK4 does not interact with GIKS3 but CaPK1 interacts with GIKS3.",
+    "correct_answer": "E"
+  },
+  {
+    "id": "673a8c2e4e2e35b51a27fafd",
+    "answer": "B. Increased frequency of mucoid variants with a wider spectrum of mucA mutations",
+    "correct_answer": "C"
+  },
+  {
+    "id": "673ae99a3022b9e17f89d1b6",
+    "answer": "The cumulative surface dose to a tissue imaged using the multiple energy imaging system is 3.87e-09 Gy.",
+    "correct_answer": "3.92*10^-6"
+  },
+  {
+    "id": "673af092fa64168165769f1e",
+    "answer": "F. Graves' disease",
+    "correct_answer": "E"
+  },
+  {
+    "id": "673b6ca1a646afb63047219f",
+    "answer": "E. Midbrain (specifically, the oculomotor nerve, which originates from the midbrain).",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67492f85d2aa56dfc01ee6d7",
+    "answer": "The likely molecular abnormality in this patient is a mutation in the FSHR (Follicle-Stimulating Hormone Receptor) gene.",
+    "correct_answer": "Turner Syndrome with Isochromosome Xq."
+  },
+  {
+    "id": "675b84caa03d8b4e391dcc88",
+    "answer": "J. Theoretically, 51.25% of the offspring should be drought-resistant. Only E3ub-wt is an active ubiquitin ligase. Par22 cannot interact with E3ub-insert105. The insertion increases the mass of E3ub by approximately 4.0kDA.",
+    "correct_answer": "C"
+  },
+  {
+    "id": "675f78278896e41ae7eb29da",
+    "answer": "5\t-TGCCCGCACAAGTGA-3",
+    "correct_answer": "5' CAC TTA TGC GGG GCA 3'"
+  },
+  {
+    "id": "6766662d37a605e5d7cb9ee8",
+    "answer": "B. Insert a laparoscopic instrument like and flat grasper and get it between the jaws of the stapler and pry it open",
+    "correct_answer": "A"
+  },
+  {
+    "id": "67666a593e38774fc651f9f3",
+    "answer": "E. Level 1 trauma center 15 minutes away with toxicologist on call",
+    "correct_answer": "C"
+  },
+  {
+    "id": "67672352c393c4ff629cb820",
+    "answer": "A. Long chain molecules tended to be processed more anteriorly in the olfactory bulb",
+    "correct_answer": "A"
+  },
+  {
+    "id": "676727c0c393c4ff629cb82b",
+    "answer": "A. Blindsight for stimuli in the lower left quadrant in a non-verbal primate",
+    "correct_answer": "E"
+  },
+  {
+    "id": "6767969869b88c321c96665a",
+    "answer": "B. More sensory loss in the right foot than the arm",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6774abe2c935e3922327ff5e",
+    "answer": "D. V1, V3, V4, VTF, TEO, TE",
+    "correct_answer": "C"
+  },
+  {
+    "id": "6775b1ab76b69969709e80a7",
+    "answer": "The limiting value of P(n) as n approaches infinity is 0.34360891580581665.",
+    "correct_answer": "$lim ᵣ→∞ P(n) = ∏ᵢ₌₀⁷(1 - 1/8ⁱ⁺¹)$"
+  },
+  {
+    "id": "6777764d6b3f27cf12b17555",
+    "answer": "A. increased inter-hemispheric insula connectivity",
+    "correct_answer": "A"
+  },
+  {
+    "id": "677c1cf633409bfdbb11942d",
+    "answer": "B. rostroventral",
+    "correct_answer": "A"
+  },
+  {
+    "id": "6781903d382cfca83d01b77f",
+    "answer": "The question asks for the steric-only contribution to the second osmotic virial coefficient. Given the experimental value of -7.585 mL/g and the presence of strong electrostatic interactions, the steric-only contribution cannot be directly determined without knowing the magnitude and sign of the electrostatic contribution. If the electrostatic interactions are repulsive, the steric-only contribution would be more negative (more attractive) than the experimental value. If the electrostatic interactions are attractive, the steric-only contribution would be less negative (less attractive or even repulsive) than the experimental value. Without more information on the nature and magnitude of the electrostatic interactions (attractive or repulsive) at this specific pH and ionic strength, a precise numerical answer for the steric-only behavior cannot be provided.",
+    "correct_answer": "~ 9-11 mL/g"
+  },
+  {
+    "id": "6782d9482eeb133480ec3268",
+    "answer": "A. Through direct vasodilation",
+    "correct_answer": "B"
+  },
+  {
+    "id": "6700ab4bfa64315ed5204e4d",
+    "answer": "2, 5, 6, 7, 9, 10, 12",
+    "correct_answer": "2, 3, 5, 6, 7, 8, 9, 10, 12"
+  },
+  {
+    "id": "6701638aed23f06e44f0e6b8",
+    "answer": "No, this approach is not valid. The ecological function of mimicry syndromes is to deter predators, and the visual perception of untrained undergraduates may not accurately reflect how predators perceive the mimicry. Predator perception is crucial for the ecological function of mimicry.",
+    "correct_answer": "Yes"
+  },
+  {
+    "id": "67018145e8c125b41caa9ee3",
+    "answer": "A",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6701c3cb38b706939b30cb0b",
+    "answer": "10 and 20",
+    "correct_answer": "10mg is 647 and 20mg is 648"
+  },
+  {
+    "id": "6701ca6bb773dec162bde23c",
+    "answer": "The critical amount of correlation between the input populations v and s that is required to balance out potentiation and depression is given by the condition where the average change in weight is zero. This occurs when the average of r_i(v_k - theta) and r_i(s_k - theta) is zero. Since the average rate of activation for both r and s is equal (mu), and assuming v_k and s_k are also centered around some mean, the critical correlation would be related to the heterosynaptic offset constant theta and the average activity mu. More specifically, the critical correlation is when the average of (v_k - theta) and (s_k - theta) is zero, which means the average input activity equals theta.",
+    "correct_answer": "\\theta - \\mu"
+  },
+  {
+    "id": "6701d869aee3881b852d40a0",
+    "answer": "$\\tau_w\\dot{w_i} = u_i(v_i + \\rho)$ where $\\rho = \\frac{\\alpha(1-\\eta) + \\beta\\eta}{\\alpha(1-\\eta) + \\beta\\eta - \\alpha}$",
+    "correct_answer": "u(t)(v_i(t) + \\rho)"
+  },
+  {
+    "id": "6701de16d9e4cd1aa812414b",
+    "answer": "B",
+    "correct_answer": "M"
+  },
+  {
+    "id": "6702b8bebb1c7fc12ef340a6",
+    "answer": "E",
+    "correct_answer": "D"
+  },
+  {
+    "id": "6704486baf0a436d92c65161",
+    "answer": "MM should be on a combination of a calcium channel blocker (e.g., amlodipine), an ARB (e.g., valsartan), and a beta-blocker (e.g., metoprolol).",
+    "correct_answer": "diltiazem, chlorthalidone, spironolactone"
+  },
+  {
+    "id": "670c23124d86f843dc5efa7e",
+    "answer": "C",
+    "correct_answer": "E"
+  },
+  {
+    "id": "670c775842b25f65425c86c2",
+    "answer": "C",
+    "correct_answer": "A"
+  }
+]
