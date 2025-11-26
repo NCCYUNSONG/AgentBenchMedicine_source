@@ -81,11 +81,13 @@ A recently developed benchmark comprising highly complex and nuanced cases acros
   * Llama-4-Maverick-17B-128E-Instruct-FP8
   * Qwen-3-235B-A22B-FP8
   * GPT-4.1
+  * MedGemma
 
 * **Multimodal tasks** (with vision support):
   * Llama-4-Maverick-17B-128E-Instruct-FP8
   * Gemma-3-27B-IT-Q8
   * GPT-4.1
+  * MedGemma
 
 ### Manus & OpenManus Variants
 
@@ -195,5 +197,6 @@ python hle_img.py \
 ---
 
 ## License
+
 
 This project is licensed under the [MIT License](LICENSE).
